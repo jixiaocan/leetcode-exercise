@@ -4,7 +4,7 @@
 
 面试题62.[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 约瑟夫问题
-
+289.[生命游戏](https://leetcode-cn.com/problems/game-of-life/)
 820.[单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/)
 
 876.[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
